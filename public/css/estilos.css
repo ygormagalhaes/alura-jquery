@@ -1,0 +1,57 @@
+body {
+    overflow: scroll;
+}
+
+.frase {
+    font-size: 20px;
+}
+
+#campo-texto {
+    height: 150px;
+    font-size: 20px;
+}
+
+.campo-desativado {
+    background-color: darkgray;
+}
+
+.icones {
+    vertical-align: middle;
+}
+
+.informacoes {
+    text-align: left;
+}
+
+.borda-preta {
+    border: 3px solid black;
+}
+
+.borda-verde {
+    border: 3px solid greenyellow;
+}
+
+.borda-vermelha {
+    border: 3px solid lightcoral;
+}
+
+.placar {
+    display: none;
+}
+
+.erro {
+    color: red;
+    display: none;
+}
+
+#spinner {
+    display: none;
+}
+
+#campo-id {
+    width: 50px;
+}
+
+#botao-sync {
+    float: right;
+}
